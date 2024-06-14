@@ -1,0 +1,26 @@
+
+
+.myimg{
+    width: 200px;
+    height: fit-content;
+    border-radius: 50%;
+}
+
+.background{
+    background-color: rgb(194, 222, 247);
+}
+
+
+#cv-template{
+    display: none;
+}
+
+
+.homepage{
+    background-color: rgb(202, 211, 233);
+}
+
+.homeimg{
+    width: 900px;
+    height: fit-content;
+}
